@@ -102,3 +102,16 @@ SHA256: a53106d67188dc8bef9e99b90a7ef748e4ee63eb6742a8ca47ba8a8bd7bf8032
 Description: Starterfassungsprogramm 'Startkladde' der Akaflieg Karlsruhe.
  Qt5-Fork der Akaflieg Berlin.
 
+Package: startkladde
+Version: 2.5.0
+Architecture: amd64
+Maintainer: Julian Schick <julian.schick@posteo.de>
+Depends: libqt6sql6-mysql, libqt6multimedia6, libqt6serialport6, libqt6core6, libqt6printsupport6, libqt6sql6, libqt6xml6
+Filename: ./startkladde_2.5.0_amd64.deb
+Size: 1294340
+MD5sum: 9b1ba277d0bdb237947148c7b181ad36
+SHA1: 376fc83e404c6333a8f698d5be88925e77a81147
+SHA256: 3650883a199362da2228ef94ace115bf491b0b75aa1a2fc8d35bc27696c6ba65
+Description: Starterfassungsprogramm 'Startkladde' der Akaflieg Karlsruhe.
+ Qt6-Fork der Akaflieg Berlin.
+
